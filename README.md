@@ -11,5 +11,5 @@ PRESS F8 TO RUN
 PRESS F8 TO STOP THE SCRIPT 
 
 
-This is how it should look
+This is how it should look <br> <br>
 <img width="340" height="172" alt="obraz" src="https://github.com/user-attachments/assets/5408924d-d195-4896-8f44-dbe8be20cde2" />
