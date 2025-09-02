@@ -16,5 +16,9 @@ This is how it should look <br> <br>
 <br> Try to get the screenshot with only the buttons in it, none of the background
 
 
-https://github.com/user-attachments/assets/a48153fa-eaa5-4ebf-9016-8ae1df1d4153
+
+
+
+
+https://github.com/user-attachments/assets/3ca11947-95b0-435a-b1ce-5660bedce71e
 
